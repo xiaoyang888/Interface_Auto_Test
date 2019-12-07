@@ -1,0 +1,15 @@
+admin:
+  id: 1784
+  mobile_phone: '18815438976'
+  pwd: '12345678'
+  reg_name: admin
+borrow:
+  id: 1786
+  mobile_phone: '18820651793'
+  pwd: '12345678'
+  reg_name: borrow
+invest:
+  id: 1785
+  mobile_phone: '18845103628'
+  pwd: '12345678'
+  reg_name: invest
